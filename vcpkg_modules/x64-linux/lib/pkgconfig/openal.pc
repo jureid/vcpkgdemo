@@ -1,0 +1,12 @@
+prefix=/home/jureid/vcpkg/packages/openal-soft_x64-linux
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenAL
+Description: OpenAL is a cross-platform 3D audio API
+Requires: 
+Version: 1.20.1
+Libs: -L${libdir} -lopenal 
+Libs.private: -pthread -lpthread -ldl -latomic -lm
+Cflags: -I${includedir} -I${includedir}/AL -DAL_LIBTYPE_STATIC

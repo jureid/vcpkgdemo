@@ -1,0 +1,9 @@
+openssl-unix 6f2a9f5d0e09c21a819ba5efccb8fb035da52a38
+CONTROL 1aff4989d36904c26f2c15d566a4076ebfb0b71b
+portfile.cmake dfcde9a792c20ca586d055247a0613c324dad868
+usage e84689f3fed71c903aaffed65f621b3eee496037
+cmake 3.14.0
+vcpkg_fixup_cmake_targets dac334f3bf50b8262be92623168023aa565aa729
+post_build_checks 2
+triplet 0974e7f98a1d9a57447898ec5d2ed03b8111966f-77a1725add280a33f0c7a3b12acc4170b1bffd7e
+features core

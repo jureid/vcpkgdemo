@@ -1,0 +1,6 @@
+x64-linux/
+x64-linux/share/
+x64-linux/share/libiconv/
+x64-linux/share/libiconv/vcpkg_abi_info.txt
+x64-linux/share/unofficial-iconv/
+x64-linux/share/unofficial-iconv/unofficial-iconv-config.cmake

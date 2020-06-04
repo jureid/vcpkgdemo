@@ -1,0 +1,8 @@
+boost-vcpkg-helpers 7e5d08bd997e28f4a0baf5d00604189cdfde3273
+CONTROL 5319f925a988f4b051b246d0771216abaa63186c
+portfile.cmake 67e11c22843e3de86d47aee9d9d4e68816e8777f
+cmake 3.14.0
+vcpkg_fixup_cmake_targets dac334f3bf50b8262be92623168023aa565aa729
+post_build_checks 2
+triplet 0974e7f98a1d9a57447898ec5d2ed03b8111966f-77a1725add280a33f0c7a3b12acc4170b1bffd7e
+features core

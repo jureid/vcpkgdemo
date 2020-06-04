@@ -1,0 +1,16 @@
+x64-linux/
+x64-linux/debug/
+x64-linux/debug/lib/
+x64-linux/debug/lib/libSDL2_image.a
+x64-linux/include/
+x64-linux/include/SDL2/
+x64-linux/include/SDL2/SDL_image.h
+x64-linux/lib/
+x64-linux/lib/libSDL2_image.a
+x64-linux/share/
+x64-linux/share/sdl2-image/
+x64-linux/share/sdl2-image/copyright
+x64-linux/share/sdl2-image/sdl2-image-config-debug.cmake
+x64-linux/share/sdl2-image/sdl2-image-config-release.cmake
+x64-linux/share/sdl2-image/sdl2-image-config.cmake
+x64-linux/share/sdl2-image/vcpkg_abi_info.txt

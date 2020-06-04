@@ -1,0 +1,10 @@
+portfile.cmake 1bfe1d1882154f489389560d887495671bd4cc7d
+CONTROL 2179a232571b61a9351b14554864f14ae44ad078
+usage 3e85bdf90bdeafb3e79238d8257ed1d5ceb6f834
+fix-arm-builds.patch 5de7cbc085c3378c00560a6a79e8f9c7e48c765e
+dont-export-symbols-in-static-build.patch ca5a668e4a2be71702e7935cd951dd063217e1b0
+cmake 3.14.0
+vcpkg_fixup_cmake_targets dac334f3bf50b8262be92623168023aa565aa729
+post_build_checks 2
+triplet 0974e7f98a1d9a57447898ec5d2ed03b8111966f-77a1725add280a33f0c7a3b12acc4170b1bffd7e
+features core

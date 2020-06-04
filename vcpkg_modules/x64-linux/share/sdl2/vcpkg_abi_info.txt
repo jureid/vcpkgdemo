@@ -1,0 +1,13 @@
+CONTROL 27345e806bd465fa4adbed856c93076784a950ee
+disable-hidapi-for-uwp.patch 45cb21df78fad1c5f663256c0f02eedfed71b864
+disable-wcslcpy-and-wcslcat-for-windows.patch 4963b8af4aca70fd58a467a67e4be0b6d431c060
+fix-space-in-path.patch 75c5082a8431917fafb40c906c1ae214af32c228
+export-symbols-only-in-shared-build.patch 9eb7c558bf8bb3df52be2f8ed7d75654f5806e6c
+enable-winrt-cmake.patch b8782ed6012e2f5d8a121623b8d5c7a25dc09d5f
+vcpkg-cmake-wrapper.cmake c83f8cc683a1c5af100fc0debe531be2f09e0766
+portfile.cmake d6307055886b6f6940b27f8d6b67fc3de685d48e
+cmake 3.14.0
+vcpkg_fixup_cmake_targets dac334f3bf50b8262be92623168023aa565aa729
+post_build_checks 2
+triplet 0974e7f98a1d9a57447898ec5d2ed03b8111966f-77a1725add280a33f0c7a3b12acc4170b1bffd7e
+features core

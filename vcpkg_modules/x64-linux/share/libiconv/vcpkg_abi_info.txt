@@ -1,0 +1,11 @@
+unofficial-iconv-config.cmake 3af0713063aef4f3ab9b8f5ecfeb7257a9a9d213
+CMakeLists.txt 4040fc62479f9e6953370710c0b00bb8e392eee9
+portfile.cmake 7aac1b7ca7161b751122c762dcfae75bfc13db24
+CONTROL ca5acdf1e42e7c6ae3a501659fb6ad2f87191bb7
+0003-Add-export.patch cdff2935b85c016baeec5bff8958bdf4534f183c
+0002-Config-for-MSVC.patch d6abc939dee00a4f946da24bc0e0c6474fa5c1c8
+cmake 3.14.0
+vcpkg_fixup_cmake_targets dac334f3bf50b8262be92623168023aa565aa729
+post_build_checks 2
+triplet 0974e7f98a1d9a57447898ec5d2ed03b8111966f-77a1725add280a33f0c7a3b12acc4170b1bffd7e
+features core
